@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.i18n;alert((0,e.__)("Loaded","plugin-boilerplate"))})();
